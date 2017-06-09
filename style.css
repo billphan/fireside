@@ -2,11 +2,13 @@ body {
   color: white;
   background-color: black;
   font-family: 'Sacramento', cursive;
-  font-size: 150%;
   margin: 5em 25%;
 }
 
 p {
-  font-size: 12px;
-  /*font-family: 'Helvetica', serif*/
+  font-size: 3em;
+}
+.burn {
+  color: #b11;
+  font-size: 2.2em;
 }
