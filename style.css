@@ -1,9 +1,12 @@
 body {
     color: #fff;
     background-color: #000;
+    font-family: 'Satisfy', cursive;
+    font-size: 12px;
+    margin: 5em 25%;
 }
 
-p {
+/*p {
   font-family: 'Helvetica', serif
   font-size: 12px;
-}
+}*/
