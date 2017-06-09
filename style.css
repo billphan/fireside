@@ -2,3 +2,8 @@ body {
     color: #fff;
     background-color: #000;
 }
+
+p {
+  font-family: 'Helvetica', serif
+  font-size: 12px;
+}
